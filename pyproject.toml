@@ -1,0 +1,12 @@
+[project]
+name = "tracklet-stitching-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
+    "mapclassify>=2.10.0",
+    "matplotlib>=3.10.7",
+]
