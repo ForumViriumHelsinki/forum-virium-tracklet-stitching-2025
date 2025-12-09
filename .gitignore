@@ -11,3 +11,7 @@ wheels/
 
 # data
 data/
+
+# Visualizations
+track_visualizations/
+plotly_results/

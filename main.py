@@ -1,5 +1,5 @@
 def main():
-    print("Hello from path-stitching-2025!")
+    print("Hello from tracklet-stitching-2025!")
 
 
 if __name__ == "__main__":
