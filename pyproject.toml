@@ -5,11 +5,20 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "bokeh>=3.8.1",
+    "dash>=3.3.0",
     "folium>=0.20.0",
     "geopandas>=1.1.1",
+    "ipympl>=0.9.8",
     "itables>=2.5.2",
+    "kaleido>=1.2.0",
     "mapclassify>=2.10.0",
     "matplotlib>=3.10.7",
+    "mlflow>=3.7.0",
     "nbformat>=5.10.4",
     "plotly>=6.5.0",
+    "streamlit>=1.52.2",
+    "torch>=2.9.1",
+    "torchinfo>=1.8.0",
+    "tqdm>=4.67.1",
 ]
