@@ -10,8 +10,15 @@ wheels/
 .venv
 
 # data
-data/
+data/fgb
+data/raw
 
 # Visualizations
 track_visualizations/
 plotly_results/
+
+runs/
+mlruns/
+
+mlflow.db
+worm_model/
